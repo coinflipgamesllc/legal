@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Privacy Policy"
-date:   2015-11-10 08:33:58 -0500
-categories: legal privacy policy
 ---
 ## OVERVIEW
 
