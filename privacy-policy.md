@@ -145,10 +145,9 @@ The Service may contain links to other sites, applications and services. Because
 
 ## CONTACT US:
 
-[hi@coinflipgames.co](mailto:hi@coinflipgames.co)
-Coin Flip Games, LLC
-750 E Drake Rd
-#37
+[hi@coinflipgames.co](mailto:hi@coinflipgames.co)  
+Coin Flip Games, LLC  
+750 E Drake Rd #37  
 Fort Collins, CO 80525
 
 ## COOKIE POLICY
